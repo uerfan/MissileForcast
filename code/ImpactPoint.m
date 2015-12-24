@@ -1,0 +1,3 @@
+function ImpactPoint()
+
+end
